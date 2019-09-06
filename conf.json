@@ -1,0 +1,14 @@
+{
+	"render_path":"C:\\Users\\jacqueline.cruz\\Desktop\\newIngest\\temp\\",
+	"ingest_folder":"\\test\\",
+	"ftp":{
+		"host":"192.168.196.139",
+		"user":"mxfmovie",
+		"pass":""
+	},
+	"final_clip":"",
+	"clip_separator":"",
+	"delay_time":10,
+	"inferior":0,
+	"superior":10000
+}
